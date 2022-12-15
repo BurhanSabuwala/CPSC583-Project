@@ -1,5 +1,6 @@
 # Utilizing the Graph Neural Networks for annotation of Spatial Single-cell Datasets
 
+This project is a part of CPSC 583: Deep Learning for Graph Structured Data Course
 
 PyTorch implementation of STELLAR and other methods.
 
