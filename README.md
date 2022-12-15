@@ -2,7 +2,7 @@
 
 This project is a part of CPSC 583: Deep Learning for Graph Structured Data Course
 
-PyTorch implementation of STELLAR and other methods.
+This project is a modification over the study by Brbic et al. (2022) Nature Methods. The work is titled "[Annotation of spatially resolved single-cell data with STELLAR](https://www.nature.com/articles/s41592-022-01651-8)"
 
 
 ### Installation
